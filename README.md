@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikramguptavit
+- 👋 Hi, I’m Vikram Gupta
 - 👀 I’m interested in Programming, DSA, DS and ML
 - 🌱 I’m currently learning Big Data Eco system
 - 💞️ I’m looking to collaborate on any platform of your choice
